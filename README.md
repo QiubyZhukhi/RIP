@@ -1,2 +1,5 @@
-# Reverse-IP
-install Requests
+#RIP
+Required:
+Requests
+Threading
+urllib
